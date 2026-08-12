@@ -8,6 +8,11 @@ remote_theme: just-the-docs/just-the-docs
 # Dark mode 
 color_scheme: dark
 
+#Load the files
+just_the_docs:
+  custom_css:
+    - assets/css/style.css
+
 # Markdown & Formatting 
 markdown: kramdown 
 kramdown: 
