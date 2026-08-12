@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 /*Import dark color scheme*/
 @import "./color_schemes/dark"; 
 
