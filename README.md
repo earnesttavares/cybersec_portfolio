@@ -32,6 +32,6 @@ Scripts, automation tools, security-focused utilities, and experimentation with 
 
 <h2 align="center">Live Site</h2> 
 
-https://earnesttavares.github.io/cybersec_portfolio  
+https://earnesttavares.github.io/    
 
 Thanks for visiting. :)
