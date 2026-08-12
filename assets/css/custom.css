@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 /*Import dark color scheme*/
 @import "./color_schemes/dark"; 
 
@@ -21,4 +19,8 @@
 .sidebar-nav li a:hover {
   color: #00ffaa;
   text-shadow: 0 0 10px #00ffaa;
+}
+
+h1 {
+  color: red;
 }
