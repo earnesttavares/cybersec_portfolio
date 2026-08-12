@@ -1,3 +1,7 @@
+@import "./color_schemes/dark"; 
+
+$green-300: #026e57 !default; 
+
 # Site Identity
 title: "Cybersecurity Portfolio"
 description: "Hands-on labs, investigations, and security analysis."
