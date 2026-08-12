@@ -1,0 +1,19 @@
+/*Import the new font*/ 
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+/* Apply the new font to the whole site */
+body {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+/* Medium glow for sidebar text */
+.sidebar-nav li a {
+  color: #00ff99; /* hacker green */
+  text-shadow: 0 0 6px #00ff99;
+}
+
+/* Glow on hover */
+.sidebar-nav li a:hover {
+  color: #00ffaa;
+  text-shadow: 0 0 10px #00ffaa;
+}
