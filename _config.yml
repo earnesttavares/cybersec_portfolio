@@ -5,10 +5,8 @@ description: "Hands-on labs, investigations, and security analysis."
 # GitHub Pages Jekyll Theme
 remote_theme: just-the-docs/just-the-docs 
 
-# Enabling custom CSS
-just_the_docs:
-  custom_css:
-    - assets/css/style.css
+# Dark mode 
+color_scheme: dark
 
 # Markdown & Formatting 
 markdown: kramdown 
