@@ -11,7 +11,7 @@ color_scheme: dark
 #Load the files
 just_the_docs:
   custom_css:
-    - assets/css/style.css
+    - assets/css/style.scss
 
 # Markdown & Formatting 
 markdown: kramdown 
