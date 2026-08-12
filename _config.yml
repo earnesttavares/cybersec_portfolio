@@ -1,0 +1,35 @@
+# Site Identity
+title: "Earnest Tavares - Cybersecurity Portfolio"
+description: "Hands-on labs, investigations, and security analysis."
+
+# GitHub Pages Jekyll Theme
+remote_theme: just-the-docs/just-the-docs 
+
+# Sidebar Navigation from folders 
+just_the_docs: 
+  logo: false
+  search_enabled: true
+  aux_links: 
+    "GitHub Repository":
+      - "https://github.com/earnesttavares/cybersec_portfolio"
+
+# Markdown & Formatting 
+markdown: kramdown 
+kramdown: 
+  input: GFM
+
+# GitHub Pages Settings
+plugins: 
+  - jekyll-include-cache
+
+# Collections 
+collections: 
+  labs: 
+    output: true 
+    permalink: /labs/:name/
+  writeups: 
+    output: true 
+    permalink: /writeups/:name/
+  projects: 
+    output: true 
+    permalink: /projects/:name/
