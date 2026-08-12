@@ -1,10 +1,13 @@
-/*Import the new font*/ 
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+/*Import dark color scheme*/
+@import "./color_schemes/dark"; 
+
+/*Import the new Google font*/ 
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap'); 
 
 /* Apply the new font to the whole site */
-body {
-  font-family: 'Share Tech Mono', monospace;
-}
+.share-tech-mono-regular {
+  font-family: "Share Tech Mono", monospace;
+} 
 
 /* Medium glow for sidebar text */
 .sidebar-nav li a {
