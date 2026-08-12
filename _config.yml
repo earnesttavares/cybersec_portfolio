@@ -8,7 +8,7 @@ remote_theme: just-the-docs/just-the-docs
 # Enabling custom CSS
 just_the_docs:
   custom_css:
-    - assets/css/custom.css
+    - ./styles.css
 
 # Markdown & Formatting 
 markdown: kramdown 
