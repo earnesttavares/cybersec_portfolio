@@ -1,0 +1,13 @@
+/* Form layout */
+.contact-form {
+  display: flex;
+  flex-direction: column; /* stacks fields vertically */
+  gap: 1rem; /* spacing between fields */
+}
+
+/* Label + input layout */
+.contact-form label {
+  display: flex;
+  flex-direction: column; /* label above input */
+  font-weight: 600;
+}
