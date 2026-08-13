@@ -45,6 +45,17 @@ p, li, span, div {
   box-shadow: 0 0 8px #33aaff;
 }
 
+/* About Me header color */
+.page-title {
+  color: #0a1a2f !important; /* dark navy blue */
+}
+
+/*Glow for About Me header*/
+.page-title {
+  color: #0a1a2f !important;
+  text-shadow: 0 0 6px rgba(10, 26, 47, 0.4);
+}
+
 /* Center the entire contact box */
 .page-content {
   display: flex;
