@@ -5,7 +5,7 @@ nav_order: 1
 
 <h1 align="center">
   <span style="color:#33aaff; text-shadow:0 0 12px #33aaff;">
-    Earnest Tavares >/ Cybersecurity Analyst
+    Earnest Tavares /// Cybersecurity Analyst
   </span>
 </h1>
 
@@ -47,15 +47,10 @@ nav_order: 1
 
 <br>
 
-[![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)](#) 
-
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
 🛡️ <strong>Security Analysis</strong> >> Snort, log analysis, packet inspection  
-📁 <strong>Hands‑On Labs</strong> >> malware triage, memory forensics, incident simulations  
+📁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident simulations  
 🛠️ <strong>Tools & Environments</strong> >> Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk
   
 
@@ -69,6 +64,13 @@ Explore some of my ongoing projects and lab work:
 <h2><span style="border-bottom: 1px solid #ccc;">Whoami</span></h2>
 
 I blend creative problem‑solving with technical precision to break down complex security challenges.
+
+<br>
+
+[![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)](#) 
 
 <br>
 
