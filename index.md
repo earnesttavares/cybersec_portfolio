@@ -15,28 +15,28 @@ nav_order: 1
 
   <span style="margin:0 12px;">
     <a href="resume.pdf" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
       [ Resume ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://linkedin.com/in/earnesttavares" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
       [ LinkedIn ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://github.com/earnesttavares" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
       [ GitHub ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://credly.com/users/earnesttavares" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
       [ Credly ]
     </a>
   </span>
@@ -52,9 +52,9 @@ nav_order: 1
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-🛡️ <strong>Security Analysis</strong> — Snort, log analysis, packet inspection  
-📁 <strong>Hands‑On Labs</strong> — malware triage, memory forensics, incident simulations  
-🛠️ <strong>Tools & Environments</strong> — Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk
+🛡️ <strong>Security Analysis</strong> >> Snort, log analysis, packet inspection  
+📁 <strong>Hands‑On Labs</strong> >> malware triage, memory forensics, incident simulations  
+🛠️ <strong>Tools & Environments</strong> >> Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk
   
 
 <h2><span style="border-bottom: 1px solid #ccc;">Featured Work</span></h2>
@@ -67,5 +67,7 @@ Explore some of my ongoing projects and lab work:
 <h2><span style="border-bottom: 1px solid #ccc;">Whoami</span></h2>
 
 I blend creative problem‑solving with technical precision to break down complex security challenges.
+
+<br>
 
 🌐 [**> Contact Me**](contact.html) 
