@@ -22,19 +22,22 @@ nav_order: 1
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)](#) 
 
-<h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2> 
-🛡️ **Security Analysis** — Snort, log analysis, packet inspection  
-📁 **Hands‑On Labs** — malware triage, memory forensics, incident simulations  
-🛠️ **Tools & Environments** — Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk   
+<h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
+
+🛡️ <strong>Security Analysis</strong> — Snort, log analysis, packet inspection  
+📁 <strong>Hands‑On Labs</strong> — malware triage, memory forensics, incident simulations  
+🛠️ <strong>Tools & Environments</strong> — Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk
+  
 
 <h2><span style="border-bottom: 1px solid #ccc;">Featured Work</span></h2>
+
 Explore some of my ongoing projects and lab work:
 
- 📍 [Placeholder 1]
-
- 📍 [Placeholder 2]
+📍 [Placeholder 1]  
+📍 [Placeholder 2]
 
 <h2><span style="border-bottom: 1px solid #ccc;">> Whoami</span></h2>
+
 I blend creative problem‑solving with technical precision to break down complex security challenges.
 
 🌐 [**Contact Me**](contact.html) 
