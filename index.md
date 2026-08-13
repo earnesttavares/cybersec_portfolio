@@ -37,7 +37,7 @@ nav_order: 1
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://credly.com/users/earnesttavares" 
+    <a href="https://www.credly.com/users/earnest-tavares" 
        style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ Credly ]
     </a>
