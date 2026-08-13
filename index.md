@@ -4,7 +4,9 @@ nav_order: 1
 ---
 
 <h1 align="center">
-  <span style="color:#33aaff;"><strong>Earnest Tavares >/ Cybersecurity Analyst</strong></span>
+  <span style="color:#33aaff; text-shadow:0 0 12px #33aaff;">
+    Earnest Tavares >/ Cybersecurity Analyst
+  </span>
 </h1>
 
 <h2 align="center"><strong>I focus on threat detection, network analysis, and digital forensics.</strong></h2> 
@@ -15,28 +17,28 @@ nav_order: 1
 
   <span style="margin:0 12px;">
     <a href="resume.pdf" 
-       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ Resume ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://linkedin.com/in/earnesttavares" 
-       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ LinkedIn ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://github.com/earnesttavares" 
-       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ GitHub ]
     </a>
   </span>
 
   <span style="margin:0 12px;">
     <a href="https://credly.com/users/earnesttavares" 
-       style="color:#33aaff; text-shadow:0 0 6px #33aaff; text-decoration:none; font-weight:bold;">
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ Credly ]
     </a>
   </span>
