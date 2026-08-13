@@ -23,7 +23,7 @@ nav_order: 1
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://linkedin.com/in/earnesttavares" 
+    <a href="https://www.linkedin.com/in/earnest-tavar" 
        style="color:#33aaff; text-decoration:none; font-weight:bold;">
       [ LinkedIn ]
     </a>
