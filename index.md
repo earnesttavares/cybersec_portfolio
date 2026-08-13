@@ -3,19 +3,47 @@ title: Home
 nav_order: 1
 ---
 
-<h1 align="center"><strong>Earnest Tavares >/ Cybersecurity Analyst</strong></h1> 
+<h1 align="center">
+  <span style="color:#33aaff;"><strong>Earnest Tavares >/ Cybersecurity Analyst</strong></span>
+</h1>
 
 <h2 align="center"><strong>I focus on threat detection, network analysis, and digital forensics.</strong></h2> 
+<br>
 
 
-<div class="link-row">
-  <p align="center">
-  <a class="blue-btn" href="resume.pdf">Resume |</a>
-  <a class="blue-btn" href="https://linkedin.com/in/earnesttavares">LinkedIn |</a>
-  <a class="blue-btn" href="https://github.com/earnesttavares">GitHub |</a>
-  <a class="blue-btn" href="https://www.credly.com/users/earnest-tavares/badges/credly">Credly</a>
-  </p>
-</div> 
+<div style="text-align:center; margin: 25px 0;">
+
+  <span style="margin:0 12px;">
+    <a href="resume.pdf" 
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+      [ Resume ]
+    </a>
+  </span>
+
+  <span style="margin:0 12px;">
+    <a href="https://linkedin.com/in/earnesttavares" 
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+      [ LinkedIn ]
+    </a>
+  </span>
+
+  <span style="margin:0 12px;">
+    <a href="https://github.com/earnesttavares" 
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+      [ GitHub ]
+    </a>
+  </span>
+
+  <span style="margin:0 12px;">
+    <a href="https://credly.com/users/earnesttavares" 
+       style="color:#33aaff; text-decoration:none; font-weight:bold;">
+      [ Credly ]
+    </a>
+  </span>
+
+</div>
+
+<br>
 
 [![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)](#)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) 
@@ -36,8 +64,8 @@ Explore some of my ongoing projects and lab work:
 📍 [Placeholder 1]  
 📍 [Placeholder 2]
 
-<h2><span style="border-bottom: 1px solid #ccc;">> Whoami</span></h2>
+<h2><span style="border-bottom: 1px solid #ccc;">Whoami</span></h2>
 
 I blend creative problem‑solving with technical precision to break down complex security challenges.
 
-🌐 [**Contact Me**](contact.html) 
+🌐 [**> Contact Me**](contact.html) 
