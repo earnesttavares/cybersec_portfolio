@@ -18,7 +18,7 @@ nav_order: 1
   <span style="color:#33aaff;">
     Earnest Tavares
     <span class="material-symbols-outlined" 
-          style="font-size:28px; vertical-align:middle; margin:0 10px; 
+          style="font-size:34px; vertical-align:middle; margin:0 10px; 
                  color:#33aaff; text-shadow:0 0 12px #33aaff;">
       shield
     </span>
@@ -26,9 +26,9 @@ nav_order: 1
   </span>
 </h1>
 
-<h2 align="center"><strong>I focus on threat detection, network analysis, and digital forensics.</strong></h2> 
-<br>
-
+<h2 align="center" style="font-weight:500;">
+  I focus on threat detection, network analysis, and digital forensics.
+</h2>
 
 <div style="text-align:center; margin: 25px 0;">
 
