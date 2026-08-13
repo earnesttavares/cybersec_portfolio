@@ -1,33 +1,41 @@
-/* Import terminal-style Hack font */
-@import url("https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.003/web/hack.css");
+/* Import IBM Plex Mono font */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
 
 /* Apply terminal font across entire site */
-body, html {
-  font-family: "Hack", monospace !important;
+body {
+  font-family: 'IBM Plex Mono', monospace !important;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: "Hack", monospace !important;
-  letter-spacing: 0.5px;
+/*Apply the font to headings*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-weight: 600;
 }
 
-/* Change the top navigation bar background */
-.navbar {
+/*Paragraph weight for IBM Plex Mono*/
+p, li, span, div {
+  font-weight: 400;
+}
+
+/* Change the side navigation bar background */
+.site-nav {
   background-color: #66c2ff !important;
 }
 
+/*Set up the blue buttons & set the font.*/
 .blue-btn {
   padding: 0.5rem 1rem;
   border: 2px solid #33aaff;
   border-radius: 6px;
   color: #e8f4ff;
   background: #0a0f1f;
-  font-family: "JetBrains Mono", monospace;
+  font-family: 'IBM Plex Mono', monospace;
   transition: box-shadow 0.3s ease;
 }
 
+/*Blue button glow*/
 .blue-btn:hover {
-  box-shadow: 0 0 10px #33aaff;
+  box-shadow: 0 0 8px #33aaff;
 }
 
 /* Center the entire contact box */
@@ -101,7 +109,9 @@ h1, h2, h3, h4, h5 {
   box-shadow: 0 0 10px #33aaff;
 }
 
+/*Contact form button hover*/
 .contact-form button:hover {
-  background: #1a8cd8;
-  box-shadow: 0 0 16px #1a8cd8;
+  background: #0a0f1f;
+  box-shadow: 0 0 12px #33aaff;
+  color: #33aaff;
 }
