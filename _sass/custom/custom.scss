@@ -17,9 +17,16 @@ p, li, span, div {
   font-weight: 400;
 }
 
-/* Change the side navigation bar background */
-.site-nav {
-  background-color: #66c2ff !important;
+/* Side navigation text color (matches header blue) */
+.site-nav a {
+  color: #66c2ff !important;
+  font-weight: 600;
+  font-family: 'IBM Plex Mono', monospace !important;
+} 
+
+/* Glow on hover for nav bar */
+.site-nav a:hover {
+  text-shadow: 0 0 6px #33aaff;
 }
 
 /*Set up the blue buttons & set the font.*/
