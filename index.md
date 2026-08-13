@@ -62,13 +62,13 @@ nav_order: 1
 
 </div>
 
-<br>
-
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-🛡️ <strong>Security Analysis</strong> >> Snort, log analysis, packet inspection  
-📁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident simulations  
-🛠️ <strong>Tools & Environments</strong> >> Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk
+🛡️ <strong>Security Analysis</strong> >> Snort, log analysis, packet inspection 
+
+📁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident simulations 
+
+🛠️ <strong>Tools & Environments</strong> >> Linux/WSL, Volatility 3, Wireshark, Python, Nmap, Splunk 
   
 
 <h2><span style="border-bottom: 1px solid #ccc;">Featured Work</span></h2>
@@ -76,6 +76,7 @@ nav_order: 1
 Explore some of my ongoing projects and lab work:
 
 📍 [Placeholder 1]  
+
 📍 [Placeholder 2]
 
 <h2><span style="border-bottom: 1px solid #ccc;">Whoami</span></h2>
@@ -92,4 +93,6 @@ I blend creative problem‑solving with technical precision to break down comple
 
 <br>
 
-🌐 [**> Contact Me**](contact.html) 
+<div align="center">
+  <a href="contact.html"><strong>&gt; 🌐 Contact Me</strong></a>
+</div>
