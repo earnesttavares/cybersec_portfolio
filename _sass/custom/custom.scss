@@ -1,3 +1,32 @@
+/* Import terminal-style Hack font */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.003/web/hack.css");
+
+/* Apply terminal font across entire site */
+body, html {
+  font-family: "Hack", monospace !important;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Hack", monospace !important;
+  letter-spacing: 0.5px;
+}
+
+/* Change the top navigation bar background */
+.navbar {
+  background-color: #007bff !important;
+}
+
+/* Change the nav links to white for contrast */
+.navbar a,
+.navbar .nav-list .nav-list-item a {
+  color: #ffffff !important;
+}
+
+/* Optional: change hover color */
+.navbar a:hover {
+  color: #e6e6e6 !important;
+}
+
 /* Center the entire contact box */
 .page-content {
   display: flex;
