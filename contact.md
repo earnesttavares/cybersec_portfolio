@@ -25,30 +25,3 @@ nav_order: 6
 
     <button type="submit">Send Message</button>
   </form>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const form = document.querySelector(".contact-form");
-  const successBox = document.getElementById("success-message");
-
-  form.addEventListener("submit", async function (event) {
-    event.preventDefault(); // stop default redirect
-
-    const formData = new FormData(form);
-
-    // Send to Formspree
-    const response = await fetch(form.action, {
-      method: "POST",
-      body: formData,
-      headers: { "Accept": "application/json" }
-    });
-
-    if (response.ok) {
-      form.reset();                 // clear fields
-      successBox.style.display = "block"; // show success message
-    } else {
-      alert("There was an issue sending your message. Please try again.");
-    }
-  });
-});
-</script>
