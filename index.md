@@ -2,10 +2,27 @@
 title: Home
 nav_order: 1
 ---
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" /> 
+
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+</style>
 
 <h1 align="center">
-  <span style="color:#33aaff; text-shadow:0 0 12px #33aaff;">
-    Earnest Tavares /// Cybersecurity Analyst
+  <span style="color:#33aaff;">
+    Earnest Tavares
+    <span class="material-symbols-outlined" 
+          style="font-size:28px; vertical-align:middle; margin:0 10px; 
+                 color:#33aaff; text-shadow:0 0 12px #33aaff;">
+      shield
+    </span>
+    Cybersecurity Analyst
   </span>
 </h1>
 
@@ -68,6 +85,7 @@ I blend creative problem‑solving with technical precision to break down comple
 <br>
 
 [![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)](#)
+[![Security+](https://img.shields.io/badge/Security%2B-black?style=flat&labelColor=white)](#) 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)](#) 
