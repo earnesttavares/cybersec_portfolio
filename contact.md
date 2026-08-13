@@ -5,7 +5,7 @@ nav_order: 6
 
 <div class="contact-box">
   <h2>Contact Me</h2>
-  <p>Feel free to send a message using the form below:</p>
+  <p>Feel free to send me a message using the form below:</p>
 
   <form action="https://formspree.io/f/mrpzkajv" method="POST" class="contact-form">
     <label>
