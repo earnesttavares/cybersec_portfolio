@@ -18,11 +18,14 @@ nav_order: 1
 <h1 align="center">
   <span style="color:#33aaff;">
     Earnest Tavares
-    <span class="material-symbols-outlined" 
-          style="font-size:34px; vertical-align:middle; margin:0 10px; 
-                 color:#33aaff; text-shadow:0 0 12px #33aaff;">
-      shield
-    </span>
+   <span class="material-symbols-outlined" 
+      style="font-size:38px; vertical-align:middle; margin:0 10px;
+             color:#33aaff;
+             text-shadow:
+               0 0 8px #33aaff,
+               0 0 16px #33aaff;">
+  shield
+</span>
     Cybersecurity Analyst
   </span>
 </h1>
@@ -50,6 +53,8 @@ nav_order: 1
   </span>
 
 </div>
+
+<br>
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
