@@ -2,7 +2,8 @@
 title: Home
 nav_order: 1
 ---
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" /> 
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"/> 
 
 <style>
 .material-symbols-outlined {
@@ -33,31 +34,19 @@ nav_order: 1
 <div style="text-align:center; margin: 25px 0;">
 
   <span style="margin:0 12px;">
-    <a href="resume.pdf" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
-      [ Resume ]
-    </a>
+    <a href="resume.pdf" class="glow-btn">[ Resume ]</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://www.linkedin.com/in/earnest-tavar" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
-      [ LinkedIn ]
-    </a>
+    <a href="https://www.linkedin.com/in/earnest-tavar" class="glow-btn">[ LinkedIn ]</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://github.com/earnesttavares" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
-      [ GitHub ]
-    </a>
+    <a href="https://github.com/earnesttavares" class="glow-btn">[ GitHub ]</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://www.credly.com/users/earnest-tavares" 
-       style="color:#33aaff; text-decoration:none; font-weight:bold;">
-      [ Credly ]
-    </a>
+    <a href="https://www.credly.com/users/earnest-tavares" class="glow-btn">[ Credly ]</a>
   </span>
 
 </div>
