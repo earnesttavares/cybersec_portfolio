@@ -10,6 +10,41 @@ body.home {
   font-family: 'IBM Plex Mono', monospace !important;
 }
 
+/* Hide the default title text */
+.site-title {
+  font-size: 0 !important;
+}
+
+/* Insert your custom colored title */
+.site-title::after {
+  content: "Cyberfolio";
+  font-size: 22px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Color each letter individually */
+.site-title::after {
+  background: linear-gradient(
+    to right,
+    #33aaff 0%,
+    #33aaff 10%,
+    #ff4444 10%,
+    #ff4444 20%,
+    #ffaa00 20%,
+    #ffaa00 30%,
+    #00dd88 30%,
+    #00dd88 40%,
+    #aa33ff 40%,
+    #aa33ff 50%,
+    white 50%,
+    white 100%
+  );
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
 /* Force headings to use IBM Plex Mono */
 .page-content h1,
 .page-content h2,
