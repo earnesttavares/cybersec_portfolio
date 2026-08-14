@@ -34,6 +34,8 @@ nav_order: 1
   I focus on threat detection, network analysis, and digital forensics.
 </h2>
 
+<br>
+
 <div style="text-align:center; margin: 25px 0;">
 
   <span style="margin:0 12px;">
@@ -53,8 +55,6 @@ nav_order: 1
   </span>
 
 </div>
-
-<br>
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
