@@ -6,6 +6,10 @@ body {
   font-family: 'IBM Plex Mono', monospace !important;
 }
 
+body.home {
+  font-family: 'IBM Plex Mono', monospace !important;
+}
+
 /* Force headings to use IBM Plex Mono */
 .page-content h1,
 .page-content h2,
@@ -51,41 +55,45 @@ p, li, span, div {
   text-shadow: 0 0 6px #33aaff;
 }
 
-/*Set up the blue buttons & set the font.*/
-.blue-btn {
-  padding: 0.5rem 1rem;
-  border: 2px solid #33aaff;
-  border-radius: 6px;
-  color: #e8f4ff;
-  background: #0a0f1f;
-  font-family: 'IBM Plex Mono', monospace;
-  transition: box-shadow 0.3s ease;
-}
-
-/*4 Link buttons on homepage*/
-.home-buttons a {
-  transition: box-shadow 0.25s ease, transform 0.2s ease;
-}
-
-.home-buttons a:hover,
-.home-buttons a:active {
-  box-shadow: 0 0 12px rgba(0, 153, 255, 0.7);
-  transform: translateY(-2px);
-}
-
-/* Blue underline for h1–h5 */
-h1::after,
-h2::after,
-h3::after,
-h4::after,
-h5::after {
+/*Universal blue underline under headers*/
+.underline::after {
   content: "";
   display: block;
-  width: 60px;              /* underline length */
-  height: 3px;              /* underline thickness */
-  background-color: #33aaff; /* your blue color */
-  margin-top: 6px;          /* spacing below text */
-  border-radius: 2px;       /* smooth edges */
+  width: 60px;
+  height: 3px;
+  background-color: #33aaff;
+  margin-top: 6px;
+  border-radius: 2px;
+}
+
+/*Universal glow link for Resume in About page*/
+.glow-link {
+  color: #33aaff;
+  font-weight: 600;
+  text-decoration: none;
+  transition: text-shadow 0.25s ease, color 0.25s ease;
+}
+
+.glow-link:hover {
+  text-shadow: 0 0 8px #33aaff;
+  color: #66cfff;
+}
+
+/* Glow button styling for homepage links */
+.glow-btn {
+  color: #33aaff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 6px 12px;
+  border: 1px solid #33aaff;
+  border-radius: 6px;
+  transition: box-shadow 0.25s ease, transform 0.2s ease, color 0.25s ease;
+}
+
+.glow-btn:hover {
+  box-shadow: 0 0 12px #33aaff;
+  color: #66cfff;
+  transform: translateY(-2px);
 }
 
 /* Center the entire contact box */
