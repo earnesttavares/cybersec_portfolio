@@ -9,26 +9,6 @@ body {
 body.home {
   font-family: 'IBM Plex Mono', monospace !important;
 }
-/*Changing the site title color*/
-.site-title a {
-  font-family: 'IBM Plex Mono', monospace;
-  font-weight: 600;
-  font-size: 22px;
-  white-space: nowrap;
-
-  background: linear-gradient(
-    to right,
-    #33aaff 0%,   #33aaff 10%,   /* C */
-    #ff4444 10%,  #ff4444 20%,   /* y */
-    #ffaa00 20%,  #ffaa00 30%,   /* b */
-    #00dd88 30%,  #00dd88 40%,   /* e */
-    #aa33ff 40%,  #aa33ff 50%,   /* r */
-    white 50%,    white 100%     /* folio */
-  );
-
-  -webkit-background-clip: text;
-  color: transparent;
-}
 
 /* Force headings to use IBM Plex Mono */
 .page-content h1,
