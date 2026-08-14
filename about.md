@@ -5,26 +5,28 @@ nav_order: 2
 
 # About Me
 
-***Hello, my name is Earnest.*** 
+I’m a cybersecurity professional with a foundation built through both formal study and hands-on technical training. In July 2026, I completed **Correlation One’s Information Security Analyst – Cohort 11** six‑month program, graduating with Honors, where I strengthened my capabilities in threat analysis, security operations, and structured problem‑solving. My background also includes certifications in Google GA4 Analytics, Adobe Analytics Business Practitioner (AD0‑E212), and CompTIA Security+ (SY0‑701), giving me a unique blend of data interpretation, system behavior analysis, and practical security control implementation. I enjoy breaking down complex systems to understand how they operate and how to better protect them. 
 
-I recently completed Correlation One’s Information Security Analyst program and earned my CompTIA Security+ certification. I’m currently building a portfolio that expands on the SOC‑focused projects I completed during the 6‑month program. These projects demonstrate practical defensive skills including threat analysis, alert triage, and incident response. I’m actively developing the SOC‑aligned capabilities needed to transition into a Security Operations Center analyst role through structured training and continuous hands-on learning. I’m also open to opportunities in data center operations, where my technical troubleshooting and systems knowledge can support critical infrastructure. 
+I’m actively expanding my technical capabilities through additional certifications and real-world lab work. My short‑term goals include preparing for the CompTIA CySA+ and completing hands-on training through HTB and OffSec to deepen my understanding of adversarial techniques, detection logic, and defensive strategy. Long‑term, I’m working toward the ISC2 CCSP to align my growth with cloud security architecture and scalable enterprise environments. I bring a methodical approach, clear communication, and a steady problem‑solving mindset to technical challenges. 
 
-<br> 
+In practice, I specialize in analyzing misconfigurations, reducing exposure created by insecure defaults, improving monitoring coverage, and flagging early‑stage behaviors that map to potential attack paths. I’m currently seeking a role as a **Cybersecurity Analyst** or **Data Center Technician** to gain professional, hands-on experience in security operations, infrastructure support, and real-world incident workflows. I’m looking to join an environment where I can support critical systems, strengthen security posture, and build the practical experience needed to advance in both cybersecurity and infrastructure operations.
 
-<div align="center">
+<h2>Professional Philosophy</h2>
 
-> FUTURE GOALS:
-> 
-> CompTIA Cybersecurity Analyst (CySA+) Certificate
-> 
-> HTB & OffSec training to build hands-on skills
->
-> ISC2 CCSP Certificate
+I approach security work with a focus on clarity, consistency, and operational reliability. I value environments where documentation, communication, and structured processes support strong security outcomes. I’m committed to continuous learning and improving the systems, workflows, and teams I’m part of.
 
-</div>
+<h2>Current Focus Areas</h2>
+
+[✓] Building detection logic in lab environments
+
+[✓] Practicing memory forensics and incident triage
+
+[✓] Strengthening baseline hardening and secure configuration skills
+
+[✓] Developing proficiency in log analysis and alert triage to distinguish true security events from noise
 
 <br>
 
-Outside of cybersecurity, 
-
-I enjoy chess, hiking, and traveling both locally and abroad. I'm working on building a cyberdeck, which lets me explore hardware, customization, and hands-on technical creativity. These hobbies keep me sharp, focused, and grounded while supporting my growth as a security professional.  
+<div style="text-align: center;">
+  [✓] Resume → <a href="https://earnesttavares.github.io/resume.pdf">earnesttavares.github.io/resume.pdf</a>
+</div>
