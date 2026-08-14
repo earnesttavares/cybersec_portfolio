@@ -15,32 +15,24 @@ body.home {
   font-size: 0 !important;
 }
 
-/* Insert your custom colored title */
+/* Insert custom title text */
 .site-title::after {
   content: "Cyberfolio";
   font-size: 22px;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 600;
   white-space: nowrap;
-}
-
-/* Color each letter individually */
-.site-title::after {
-  background: linear-gradient(
+/*Continuing custom title text*/
+background: linear-gradient(
     to right,
-    #33aaff 0%,
-    #33aaff 10%,
-    #ff4444 10%,
-    #ff4444 20%,
-    #ffaa00 20%,
-    #ffaa00 30%,
-    #00dd88 30%,
-    #00dd88 40%,
-    #aa33ff 40%,
-    #aa33ff 50%,
-    white 50%,
-    white 100%
+    #33aaff 0%,   #33aaff 10%,   /* C */
+    #ff4444 10%,  #ff4444 20%,   /* y */
+    #ffaa00 20%,  #ffaa00 30%,   /* b */
+    #00dd88 30%,  #00dd88 40%,   /* e */
+    #aa33ff 40%,  #aa33ff 50%,   /* r */
+    white 50%,    white 100%     /* folio */
   );
+
   -webkit-background-clip: text;
   color: transparent;
 }
