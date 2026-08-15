@@ -11,16 +11,8 @@ body.home {
 }
 
 /*Changing site title color*/
-.site-title {
+.site-title.lh-tight {
   color: #D4A017 !important; 
-}
-
-a.site-title {
-  color: #D4A017 !important; 
-  
-  &:hover {
-    color: #1737D4 !important; 
-  }
 }
 
 /* Force headings to use IBM Plex Mono */
