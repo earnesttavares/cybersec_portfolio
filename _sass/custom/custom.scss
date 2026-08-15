@@ -15,6 +15,14 @@ body.home {
   color: #D4A017 !important; 
 }
 
+/* Make site title non-clickable */
+.site-title {
+  pointer-events: none;
+  cursor: default;
+  color: inherit;         /* matches your header color */
+  text-decoration: none;
+}
+
 /* Force headings to use IBM Plex Mono */
 .page-content h1,
 .page-content h2,
