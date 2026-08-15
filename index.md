@@ -39,19 +39,19 @@ nav_order: 1
 <div style="text-align:center; margin: 25px 0;">
 
   <span style="margin:0 12px;">
-    <a href="resume.pdf" class="glow-btn"> Resume </a>
+    <a href="resume.pdf" class="glow-btn">Resume</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://www.linkedin.com/in/earnest-tavar" class="glow-btn"> LinkedIn </a>
+    <a href="https://www.linkedin.com/in/earnest-tavar" class="glow-btn">LinkedIn</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://github.com/earnesttavares" class="glow-btn"> GitHub </a>
+    <a href="https://github.com/earnesttavares" class="glow-btn">GitHub</a>
   </span>
 
   <span style="margin:0 12px;">
-    <a href="https://www.credly.com/users/earnest-tavares" class="glow-btn"> Credly </a>
+    <a href="https://www.credly.com/users/earnest-tavares" class="glow-btn">Credly</a>
   </span>
 
 </div>
@@ -69,9 +69,9 @@ nav_order: 1
 
 Explore some of my ongoing projects and lab work:
 
-📍 [Placeholder 1]   
+🌐 [Placeholder 1]   
 
-📍 [Placeholder 2] 
+🌐 [Placeholder 2] 
 
 <h2><span style="border-bottom: 1px solid #ccc;">Identity</span></h2>
 
@@ -87,6 +87,6 @@ I blend creative problem‑solving with technical precision to break down comple
 
 <br>
 
-<div align="center">🌐
+<div align="center">
   <a href="contact.html"><strong>Contact Me</strong></a>
 </div>
