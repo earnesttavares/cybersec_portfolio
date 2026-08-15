@@ -28,5 +28,5 @@ I’m focused on building secure, reliable systems and contributing to teams tha
 <br>
 
 <div style="text-align: center;">
-  <a href="/resume.pdf" class="glow-link">✎Resume</a>
+  <a href="/resume.pdf" class="glow-link">✎ Resume</a>
 </div>
