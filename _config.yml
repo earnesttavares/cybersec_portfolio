@@ -1,16 +1,3 @@
- # Site Identity
-title: "Cyberfolio"
-description: "Hands-on labs, investigations, and security analysis."
-
-#Google Analytics Measurement ID from GA4
-google_analytics: G-GK403M7RGP
-
-# GitHub Pages Jekyll Theme
-remote_theme: just-the-docs/just-the-docs 
-
-# Dark mode 
-color_scheme: dark
-
 #Load the custom files
 just_the_docs:
   custom_css:
@@ -24,6 +11,20 @@ kramdown:
 # GitHub Pages Settings
 plugins: 
   - jekyll-include-cache
+
+# GitHub Pages Jekyll Theme
+remote_theme: just-the-docs/just-the-docs 
+
+# Dark mode 
+color_scheme: dark
+ 
+ # Site Identity
+title: "Cyberfolio"
+description: "Hands-on labs, investigations, and security analysis."
+
+# Google Analytics Tracking
+ga_tracking: "G-GK403M7RGP"
+ga_tracking_anonymize_ip: true # Optional: Enables GDPR compliant tracking
 
 # Collections 
 collections: 
