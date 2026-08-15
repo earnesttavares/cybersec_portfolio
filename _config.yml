@@ -2,6 +2,9 @@
 title: "Cyberfolio"
 description: "Hands-on labs, investigations, and security analysis."
 
+#Google Analytics Measurement ID from GA4
+google_analytics: G-GK403M7RGP
+
 # GitHub Pages Jekyll Theme
 remote_theme: just-the-docs/just-the-docs 
 
