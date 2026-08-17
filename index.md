@@ -22,7 +22,7 @@ nav_order: 1
   </span>
 
   <!-- Line 2: Job Title -->
-  <div style="text-align:center; margin-top:10px; color:#33aaff;">
+  <div style="text-align:center; margin-top:10px; color:#D4A017;">
     Cybersecurity Analyst
   </div>
 
@@ -65,11 +65,11 @@ nav_order: 1
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-⟁ <strong><span style="color:#00e5ff;">Threat Analysis</span></strong> >> log analysis, packet inspection, detection workflows 
+⟁ <strong><span style="color:#e0b33f;">Threat Analysis</span></strong> >> log analysis, packet inspection, detection workflows 
 
-🗁 <strong><span style="color:#8a4fff;">Hands‑On Labs</span></strong> >> Malware triage, memory forensics, incident response simulations 
+🗁 <strong><span style="color:#e0b33f;">Hands‑On Labs</span></strong> >> Malware triage, memory forensics, incident response simulations 
 
-⚙︎ <strong><span style="color:#1737D4;">Tools & Environments</span></strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
+⚙︎ <strong><span style="color:#e0b33f;">Tools & Environments</span></strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
 
 ⌁ I blend creative problem‑solving with technical precision to break down complex security challenges.
   
@@ -81,6 +81,8 @@ Explore some of my ongoing projects and lab work:
 🌐 [Placeholder 1]   
 
 🌐 [Placeholder 2] 
+
+<br>
 
 ![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
 ![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000)
