@@ -16,7 +16,7 @@ nav_order: 1
 </style>
 
 <h1 align="center">
-  <span style="color:#33aaff;">
+  <span style="color:#D4A017;">
     Earnest Tavares
    <span class="material-symbols-outlined" 
       style="font-size:38px; vertical-align:middle; margin:0 10px;
@@ -24,7 +24,7 @@ nav_order: 1
              text-shadow:
                0 0 8px #33aaff,
                0 0 16px #33aaff;">
-  shield
+  shield <br>
 </span>
     Cybersecurity Analyst
   </span>
@@ -58,11 +58,11 @@ nav_order: 1
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-⟁ <strong>Threat Analysis</strong> >> log analysis, packet inspection, detection workflows 
-
-🗁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident response simulations 
-
+⟁ <strong>Threat Analysis</strong> >> log analysis, packet inspection, detection workflows <br>
+🗁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident response simulations <br>
 ⚙︎ <strong>Tools & Environments</strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
+
+⌁ I blend creative problem‑solving with technical precision to break down complex security challenges.
   
 
 <h2><span style="border-bottom: 1px solid #ccc;">Featured Work</span></h2>
@@ -72,10 +72,6 @@ Explore some of my ongoing projects and lab work:
 🌐 [Placeholder 1]   
 
 🌐 [Placeholder 2] 
-
-<h2><span style="border-bottom: 1px solid #ccc;">Identity</span></h2>
-
-I blend creative problem‑solving with technical precision to break down complex security challenges.
 
 <br>
 
