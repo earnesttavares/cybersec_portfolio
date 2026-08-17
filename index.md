@@ -20,17 +20,19 @@ nav_order: 1
   <span style="color:#D4A017;">
     Earnest Tavares
   </span>
-  <!-- Line 2: Shield Icon -->
+
+  <!-- Line 2: Job Title -->
+  <div style="text-align:center; margin-top:10px; color:#33aaff;">
+    Cybersecurity Analyst
+  </div>
+
+  <!-- Line 3: Shield Icon -->
   <div style="text-align:center; margin-top:10px;">
     <span class="material-symbols-outlined"
       style="font-size:42px; color:#33aaff;
              text-shadow:0 0 8px #33aaff, 0 0 16px #33aaff;">
       shield
     </span>
-  </div>
-  <!-- Line 3: Job Title -->
-  <div style="text-align:center; margin-top:6px; color:#D4A017;">
-    Cybersecurity Analyst
   </div>
 </h1>
 
@@ -63,11 +65,11 @@ nav_order: 1
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-⟁ <strong>Threat Analysis</strong> >> log analysis, packet inspection, detection workflows 
+⟁ <strong><span style="color:#00e5ff;">Threat Analysis</span></strong> >> log analysis, packet inspection, detection workflows 
 
-🗁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident response simulations 
+🗁 <strong><span style="color:#8a4fff;">Hands‑On Labs</span></strong> >> Malware triage, memory forensics, incident response simulations 
 
-⚙︎ <strong>Tools & Environments</strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
+⚙︎ <strong><span style="color:#1737D4;">Tools & Environments</span></strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
 
 ⌁ I blend creative problem‑solving with technical precision to break down complex security challenges.
   
