@@ -18,17 +18,21 @@ nav_order: 1
 <h1 align="center">
   <span style="color:#D4A017;">
     Earnest Tavares
-   <span class="material-symbols-outlined" 
+  </span>
+
+  <div style="text-align:center; margin-top:6px;">
+    <span class="material-symbols-outlined" 
       style="font-size:38px; vertical-align:middle; margin:0 10px;
              color:#33aaff;
              text-shadow:
                0 0 8px #33aaff,
                0 0 16px #33aaff;">
-  shield <br>
-</span>
+      shield
+    </span>
     Cybersecurity Analyst
-  </span>
+  </div>
 </h1>
+
 
 <h2 align="center" style="font-weight:500;">
   I focus on threat detection, network analysis, and digital forensics.
@@ -58,8 +62,10 @@ nav_order: 1
 
 <h2><span style="border-bottom: 1px solid #ccc;">What I Do</span></h2>
 
-⟁ <strong>Threat Analysis</strong> >> log analysis, packet inspection, detection workflows <br>
-🗁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident response simulations <br>
+⟁ <strong>Threat Analysis</strong> >> log analysis, packet inspection, detection workflows 
+
+🗁 <strong>Hands‑On Labs</strong> >> Malware triage, memory forensics, incident response simulations 
+
 ⚙︎ <strong>Tools & Environments</strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
 
 ⌁ I blend creative problem‑solving with technical precision to break down complex security challenges.
@@ -72,8 +78,6 @@ Explore some of my ongoing projects and lab work:
 🌐 [Placeholder 1]   
 
 🌐 [Placeholder 2] 
-
-<br>
 
 ![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
 ![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000)
