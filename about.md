@@ -11,6 +11,11 @@ I’m currently expanding my capabilities through additional certifications and 
 
 In practice, I focus on analyzing misconfigurations, reducing exposure created by insecure defaults, improving monitoring coverage, and identifying early‑stage behaviors that map to potential attack paths. I’m seeking a role as a **Cybersecurity Analyst** or **Data Center Technician** where I can support critical systems, strengthen security posture, and build the practical experience needed to advance in both cybersecurity and infrastructure operations.
 
+<div style="text-align:center; margin-top:20px;">
+  <img src="https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000" alt="Security+" style="margin:0 10px;">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" alt="Kali Linux" style="margin:0 10px;">
+</div>
+
 <h2><span style="color:#33aaff;">Professional Philosophy</span></h2> 
 
 I’m focused on building secure, reliable systems and contributing to teams that value clarity and structure. I’m committed to continuous learning and bring a steady, collaborative approach that improves workflows, supports teammates, and strengthens a company’s security posture.
