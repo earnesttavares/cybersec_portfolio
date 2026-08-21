@@ -71,7 +71,7 @@ nav_order: 1
 
 ⚙︎ <strong><span style="color:#e0b33f;">Tools & Environments</span></strong> >> Linux/WSL, Python, Wireshark, Nmap, Splunk, Snort, Burp Suite, Volatility 3 
 
-⌁ I blend creative problem‑solving with technical precision to break down complex security challenges.
+⌁ I blend creative problem‑solving with technical precision to break down complex security challenges 
   
 
 <h2><span style="border-bottom: 1px solid #ccc;">Featured Work</span></h2>
@@ -81,14 +81,6 @@ Explore some of my ongoing projects and lab work:
 🌐 [Placeholder 1]   
 
 🌐 [Placeholder 2] 
-
-<br>
-
-![CompTIA Badge](https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=flat)
-![Security+](https://img.shields.io/badge/Security%2B-ffffff?style=flat&labelColor=%23b30000)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
 
 <br>
 
