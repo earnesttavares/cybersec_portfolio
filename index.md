@@ -45,9 +45,9 @@ nav_order: 1
 
 <div style="text-align:center; margin: 25px 0;">
 
-  <span style="margin:0 12px;">
-    <a class="btn" href="https://earnesttavares.github.io/resume">Resume</a>
-  </span>
+<span style="margin:0 12px;">
+  <a href="https://earnesttavares.github.io/resume" class="glow-btn">Resume</a>
+</span>
 
   <span style="margin:0 12px;">
     <a href="https://www.linkedin.com/in/earnest-tavar" class="glow-btn">LinkedIn</a>
